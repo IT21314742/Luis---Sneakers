@@ -1375,3 +1375,7 @@ input{
     background: none;
     border: none;
 }
+
+input{width: 100%;}
+
+button
