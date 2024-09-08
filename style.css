@@ -1385,5 +1385,5 @@ address{
     line-height: 1.7;
 }
 html{
-    font-family: ;
+    font-family: var(--ff-josefin-sans);
 }
