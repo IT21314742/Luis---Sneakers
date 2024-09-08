@@ -1380,4 +1380,6 @@ input{width: 100%;}
 
 button{cursor: pointer;}
 
-address{}
+address{
+    font-style: ;
+}
