@@ -1368,3 +1368,10 @@ table,
 tbody,
 button,
 ion-icon{display: block;}
+
+button,
+input{
+    font: inherit;
+    background: none;
+    border: none;
+}
