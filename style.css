@@ -1614,7 +1614,9 @@ body {
 
 /* Reused Styles */
 
-.container{}
+.container{
+    padding: ;
+}
 
 /* HEADER */
 
