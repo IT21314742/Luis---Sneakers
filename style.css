@@ -1630,5 +1630,5 @@ body {
 }
 
 .header.active {
-    box-shadow: 0 2px 10px hsla(hue, saturation, lightness, alpha);
+    box-shadow: 0 2px 10px hsla(0, saturation, lightness, alpha);
 }
