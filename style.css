@@ -1622,4 +1622,5 @@ body {
 .header{
     background: var(--white);
     position: fixed;
+    
 }
