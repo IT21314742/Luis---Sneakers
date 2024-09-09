@@ -1599,4 +1599,18 @@ body {
     background: var(--white);
     font-size: 1.6rem;
     padding-block-start: 90px;
+    height: 300vh;
 }
+
+::-webkit-scrollbar{width: 10px;}
+
+::-webkit-scrollbar-track{background: hsl(0, 0%, 95%);}
+
+::-webkit-scrollbar-thumb{ background: hsl(0, 0%, 80%);}
+
+::-webkit-scrollbar-thumb:hover{background: hsl(0, 0%, 70%);}
+
+
+
+/* Reused Styles */
+
