@@ -1657,7 +1657,7 @@ body {
 }
 
 .nav-open-btn ion-icon{
-    --ionicon-stroke-width:40px
+    --ionicon-stroke-width:40px;
 }
 
 
