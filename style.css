@@ -1651,7 +1651,9 @@ body {
     padding: 8px;
 }
 
-.nav-open-btn:is(:hover, :focus) {}
+.nav-open-btn:is(:hover, :focus) {
+    
+}
 
 
 
