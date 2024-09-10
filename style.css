@@ -1646,7 +1646,7 @@ body {
 
 .nav-open-btn{
     font-size: 30px;
-    background: var();
+    background: var(--bittersweet);
 }
 
 
